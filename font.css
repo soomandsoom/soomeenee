@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'BentonSansCondensed';
+    src: url('./fonts/BentonSansCondensed-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'iAbold';
+    src: url('./fonts/iAWriterQuattro-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'iAitalic';
+    src: url('./fonts/iAWriterQuattro-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'iAregular';
+    src: url('./fonts/iAWriterQuattro-Regular.woff') format('woff');
+}

@@ -1,6 +1,6 @@
 body{
     font-family: 'iAregular';
-    font-size: 20px;
+    font-size: 15px;
     background-color: #DDF4E8;
     word-break: keep-all;
     margin: 0;
@@ -115,7 +115,7 @@ a{
 .description-mini {
     grid-column: span 8;
     color: #b6b6b6;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .apof-group{

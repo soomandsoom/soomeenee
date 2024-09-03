@@ -1,9 +1,4 @@
 @font-face {
-    font-family: 'BentonSansCondensed';
-    src: url('./fonts/BentonSansCondensed-Regular.woff') format('woff');
-}
-
-@font-face {
     font-family: 'iAbold';
     src: url('./fonts/iAWriterQuattro-Bold.woff') format('woff');
 }
